@@ -1,0 +1,8 @@
+Commands: add <src> <dst>, end <src> <dst>, list, exit
+> Backup started
+> Restoring backup...
+Restore complete
+> Source: /app/source
+  -> /app/target (pid 6450)
+> Backup ended
+> 
